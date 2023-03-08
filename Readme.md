@@ -1,8 +1,5 @@
 ## Python Projects
- 
-  ### Python project workflow
-  
-  #### Web Scraping
 
- - I showcase my skills in data gathering from external source through web scrapping using the request Python's request library and beautiful soup.
- - I extract details from data using pandas, I clean, explore and derived insights from the dataset. 
+### Gaining deeper knowledge about Pyhon programming language
+
+These are the challenges and Assignments from the Book (Python Basics: A practical Introduction to Python 3) By the realpython.com Tutorial team.
